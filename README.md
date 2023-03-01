@@ -65,7 +65,7 @@ Classes:
 2. Very Mild Demented
 3. Non-Demented
 4. Moderate Demented
-Numerical Dataset (OASIS Longitudinal Dataset):
+###### Numerical Dataset (OASIS Longitudinal Dataset):
 Row Count: 374
 Feature Count: 15
 Train – Test split: 262 – 112
