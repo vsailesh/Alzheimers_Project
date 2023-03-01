@@ -1,27 +1,28 @@
 # Alzheimers_Project
-1. INTRODUCTION
-Alzheimer's Disease:
+### 1. INTRODUCTION
+##### Alzheimer's Disease:
 Alzheimer's Disease is an irreversible, progressive brain disorder that slowly destroys memory
 and thinking skills and eventually the ability to carry out the simplest tasks.
 Symptoms:
 Requires a Medical diagnosis
 Memory Loss and confusion are the main symptoms.
 People may experience:
- Cognitive Behavioural
- Mood
- Psychological
- Inability to combine muscle
- movements, jumbled speech, or loss of appetite.
+* Cognitive Behavioural
+* Mood
+* Psychological
+* Inability to combine muscle
+* movements, jumbled speech, or loss of appetite.
+* 
 It is the cause of 60-70% of cases of dementia.
 Experts haven't determined a single cause of Alzheimer's disease but they identified certain risk
 factors, including:
- Age: Most people who develop Alzheimer's disease are 65 years of age or older.
- Family History: If you have an immediate family member who has developed the
+*  Age: Most people who develop Alzheimer's disease are 65 years of age or older.
+* Family History: If you have an immediate family member who has developed the
 condition, you're more likely to get it.
- Genetics: Certain genes have been linked to Alzheimer's disease.
+* Genetics: Certain genes have been linked to Alzheimer's disease.
 
-2. LITERATURE SURVEY
-Stages of Alzheimer’s Disease:
+### 2. LITERATURE SURVEY
+##### Stages of Alzheimer’s Disease:
 Stage 1. There are no symptoms at this stage but there might be an early diagnosis based on
 family history.
 Stage 2. The earliest symptoms appear, such as forgetfulness.
