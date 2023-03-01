@@ -12,7 +12,7 @@ People may experience:
 * Psychological
 * Inability to combine muscle
 * movements, jumbled speech, or loss of appetite.
-* 
+
 It is the cause of 60-70% of cases of dementia.
 Experts haven't determined a single cause of Alzheimer's disease but they identified certain risk
 factors, including:
