@@ -74,3 +74,42 @@ Classes:
 2. Non-Demented
 3. Converted (Initially Detected as Non-Demented after further diagnosis detected as
 Demented)
+
+##### 3.2 Problem Statement
+The given problem statement is about how to detect or predict a person is having Alzheimer’s
+disease or not through Images and data collected through diagnosis and surveys. The images are
+the MRI Segmented scans of parts of brain and categorized into 4 classes and through surveys,
+the persons were asked to give information about their health conditions and other prospects.
+
+##### 3.3 Proposed Solutions
+###### Deep Learning Techniques implemented on Image Dataset:
+1. Artificial Neural Networks (ANN)
+Activation Functions used: ReLu, Sigmoid.
+2. Convolutional Neural Networks (CNN)
+Activation Functions used: ReLu, Softmax.
+Optimizer: Adam Optimizer
+Callbacks: Early Stopping Technique
+3. ResNet50 (CNN based)
+Activation Functions used: ReLu, Softmax.
+Optimizer: rmsprop Optimizer
+Callbacks: Early Stopping Technique
+4. Ensemble Learning
+* Bagging Classifier
+*  Voting Classifier
+*  Logistic Regression
+*  Decision Tree Classifier
+*  Support Vector Machine (SVM)
+
+###### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. Support Vector Machine (SVM)
+
+###### Algorithms implemented on Survey Dataset:
+1. Logistic Regression
+2. Decision Tree Classifier
+From the above implementations we obtained:
+*  Symptoms which lead to Dementia and eventual Alzheimer’s
+*  Prediction of Alzheimer’s through Images and Numerical data.
+*  Trends which are major factors of causing or factoring in developing of Alzheimer’s.
