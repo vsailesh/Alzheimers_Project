@@ -109,7 +109,8 @@ Callbacks: Early Stopping Technique
 ###### Algorithms implemented on Survey Dataset:
 1. Logistic Regression
 2. Decision Tree Classifier
-From the above implementations we obtained:
+
+###### From the above implementations we obtained:
 *  Symptoms which lead to Dementia and eventual Alzheimer’s
 *  Prediction of Alzheimer’s through Images and Numerical data.
 *  Trends which are major factors of causing or factoring in developing of Alzheimer’s.
