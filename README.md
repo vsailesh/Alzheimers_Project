@@ -36,27 +36,28 @@ Stage 6. At this stage, a person with Alzheimer’s may need help with basic tas
 eating and putting on clothes.
 Stage 7. This is the most severe and final stage of Alzheimer’s. There may be a loss of
 speech and facial expressions.
-Medical Diagnosis Procedures:
- MRI (Magnetic Resonance Imaging)
- CT-Scan
- PET Scan
- EEG Scan etc.
-Deep Learning Techniques and Models:
- Artificial Neural Networks (ANN)
- Convolutional Neural Networks (CNN)
- ResNet50 Pre-trained Model (CNN Based)
- Ensemble Learning (Logistic Regression, Bagging Classifier, Support Vector
+
+###### Medical Diagnosis Procedures:
+* MRI (Magnetic Resonance Imaging)
+* CT-Scan
+* PET Scan
+* EEG Scan etc.
+###### Deep Learning Techniques and Models:
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* ResNet50 Pre-trained Model (CNN Based)
+* Ensemble Learning (Logistic Regression, Bagging Classifier, Support Vector
 Machine)
- Logistic Regression
- Decision Tree Classifier
- Support Vector Machine (SVM)
- Random Forest Classifier
+* Logistic Regression
+* Decision Tree Classifier
+* Support Vector Machine (SVM)
+* Random Forest Classifier
 
 
-3. ANALYSIS:
-3.1 Datasets Analysis
-Image Dataset:
-4 class of MRI Segmentation Images
+### 3. ANALYSIS:
+##### 3.1 Datasets Analysis
+###### Image Dataset:
+###### 4 class of MRI Segmentation Images
 Images: 5121 Images
 Train – Test Split: 4098 - 1023
 Classes:
