@@ -46,12 +46,8 @@ speech and facial expressions.
 * Artificial Neural Networks (ANN)
 * Convolutional Neural Networks (CNN)
 * ResNet50 Pre-trained Model (CNN Based)
-* Ensemble Learning (Logistic Regression, Bagging Classifier, Support Vector
-Machine)
-* Logistic Regression
-* Decision Tree Classifier
-* Support Vector Machine (SVM)
-* Random Forest Classifier
+* Densenet121
+* Densenet169
 
 
 ### 3. ANALYSIS:
