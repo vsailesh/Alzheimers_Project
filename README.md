@@ -89,14 +89,8 @@ Callbacks: Early Stopping Technique
 Activation Functions used: ReLu, Softmax.
 Optimizer: rmsprop Optimizer
 Callbacks: Early Stopping Technique
-4. Ensemble Learning
-* Bagging Classifier
-*  Voting Classifier
-*  Logistic Regression
-*  Decision Tree Classifier
-*  Support Vector Machine (SVM)
-5. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
-6. Densenet169 - 169 Layers 
+4. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
+5. Densenet169 - 169 Layers 
 
 ###### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
 1. Logistic Regression
