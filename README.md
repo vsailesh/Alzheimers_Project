@@ -99,16 +99,14 @@ Callbacks: Early Stopping Technique
 *  Logistic Regression
 *  Decision Tree Classifier
 *  Support Vector Machine (SVM)
+5. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
+6. Densenet169 - 169 Layers 
 
 ###### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
 1. Logistic Regression
 2. Decision Tree Classifier
 3. Random Forest Classifier
 4. Support Vector Machine (SVM)
-
-###### Algorithms implemented on Survey Dataset:
-1. Logistic Regression
-2. Decision Tree Classifier
 
 ###### From the above implementations we obtained:
 *  Symptoms which lead to Dementia and eventual Alzheimer’s
