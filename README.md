@@ -61,15 +61,6 @@ Classes:
 2. Very Mild Demented
 3. Non-Demented
 4. Moderate Demented
-###### Numerical Dataset (OASIS Longitudinal Dataset):
-Row Count: 374
-Feature Count: 15
-Train – Test split: 262 – 112
-Classes:
-1. Demented
-2. Non-Demented
-3. Converted (Initially Detected as Non-Demented after further diagnosis detected as
-Demented)
 
 ##### 3.2 Problem Statement
 The given problem statement is about how to detect or predict a person is having Alzheimer’s
@@ -91,12 +82,6 @@ Optimizer: rmsprop Optimizer
 Callbacks: Early Stopping Technique
 4. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
 5. Densenet169 - 169 Layers 
-
-###### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
-1. Logistic Regression
-2. Decision Tree Classifier
-3. Random Forest Classifier
-4. Support Vector Machine (SVM)
 
 ###### From the above implementations we obtained:
 *  Symptoms which lead to Dementia and eventual Alzheimer’s
