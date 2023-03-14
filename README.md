@@ -61,6 +61,7 @@ Classes:
 2. Very Mild Demented
 3. Non-Demented
 4. Moderate Demented
+
 Source: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 
 ##### 3.2 Problem Statement
