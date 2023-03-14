@@ -43,12 +43,12 @@ speech and facial expressions.
 * PET Scan
 * EEG Scan etc.
 ###### Deep Learning Techniques and Models:
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* ResNet50 Pre-trained Model (CNN Based)
 * Densenet121
 * Densenet169
-* 
+* Insceptionv3
+* Vgg19
+* ResNet50 Pre-trained Model 
+
 SOURCE:https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
 
 ### 3. ANALYSIS:
@@ -72,19 +72,40 @@ the MRI Segmented scans of parts of brain and categorized into 4 classes and thr
 the persons were asked to give information about their health conditions and other prospects.
 
 ##### 3.3 Proposed Solutions
-###### Deep Learning Techniques implemented on Image Dataset:
-1. Artificial Neural Networks (ANN)
-Activation Functions used: ReLu, Sigmoid.
-2. Convolutional Neural Networks (CNN)
+###### Deep Learning Techniques implemented on Image Dataset: 
+1. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
 Activation Functions used: ReLu, Softmax.
-Optimizer: Adam Optimizer
-Callbacks: Early Stopping Technique
-3. ResNet50 (CNN based)
+Optimizer: adammax Optimizer
+Callbacks: ModelCheckPoint
+TensorBoard 
+ReduceLROnPlateau
+2. Densenet169 - 169 Layers 
+Activation Functions used: ReLu, Softmax.
+Optimizer: adammax Optimizer
+Callbacks: ModelCheckPoint
+TensorBoard 
+ReduceLROnPlateau
+3. Inceptionv3 (CNN based)
+Activation Functions used: ReLu, Softmax.
+Optimizer: adammax Optimizer
+Callbacks: ModelCheckPoint
+TensorBoard 
+ReduceLROnPlateau
+4. Vgg19 (CNN based)
 Activation Functions used: ReLu, Softmax.
 Optimizer: rmsprop Optimizer
-Callbacks: Early Stopping Technique
-4. Densenet121 - 120 Convolutions and 4 Average Pooling Layers 
-5. Densenet169 - 169 Layers 
+
+5. ResNet50 (CNN based)
+
+
+
+##### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. Support Vector Machine (SVM)
+
+Source: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/code?select=oasis_longitudinal.csv
 
 ###### From the above implementations we obtained:
 *  Symptoms which lead to Dementia and eventual Alzheimer’s
