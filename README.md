@@ -39,7 +39,9 @@ speech and facial expressions.
 
 Alzheimer's disease is a progressive neurodegenerative disorder that affects a significant number of people worldwide. Early detection and diagnosis of Alzheimer's disease are crucial to provide timely interventions and improve patient outcomes. In recent years, various studies have been conducted to detect 
 Alzheimer's disease using different approaches. Here is a literature survey on Alzheimer's detection:
+
 •	A review article by Olsson et al. (2018) discussed different biomarkers for early detection of Alzheimer's disease, including cerebrospinal fluid biomarkers, neuroimaging, and blood-based biomarkers.
+
 •	A study by Liu et al. (2020) proposed a deep learning-based approach for detecting Alzheimer's disease from MRI scans. The approach achieved high accuracy in detecting Alzheimer's disease and mild cognitive impairment.
 •	A review article by Hampel et al. (2018) discussed the potential of multi-modal neuroimaging and other biomarkers for the early detection of Alzheimer's disease.
 •	A study by Li et al. (2019) proposed a machine learning-based approach for detecting Alzheimer's disease using EEG signals. The approach achieved high accuracy in detecting Alzheimer's disease and mild cognitive impairment.
