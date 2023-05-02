@@ -47,7 +47,7 @@ speech and facial expressions.
 * Densenet169
 * Insceptionv3
 * Vgg19
-* ResNet50 Pre-trained Model 
+* Densenet201 + Vgg19
 
 SOURCE:https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
 
