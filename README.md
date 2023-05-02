@@ -95,17 +95,13 @@ ReduceLROnPlateau
 Activation Functions used: ReLu, Softmax.
 Optimizer: rmsprop Optimizer
 
-5. ResNet50 (CNN based)
+5. Densenet201 + Vgg19
+Activation Functions used: ReLu, Softmax.
+Optimizer: adammax Optimizer
+Callbacks: ModelCheckPoint
+TensorBoard 
+ReduceLROnPlateau
 
-
-
-##### Algorithms implemented on Numerical Dataset (OASIS Longitudinal):
-1. Logistic Regression
-2. Decision Tree Classifier
-3. Random Forest Classifier
-4. Support Vector Machine (SVM)
-
-Source: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/code?select=oasis_longitudinal.csv
 
 ###### From the above implementations we obtained:
 *  Symptoms which lead to Dementia and eventual Alzheimer’s
